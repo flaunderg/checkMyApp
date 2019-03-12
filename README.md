@@ -1,8 +1,8 @@
 # checkMyApp
 python tool to check project structure and setup file
 
-# Building
-pip install wheel twine --user
+# Building (wheel)
+python setup.py sdist bdist_wheel
 
 # Usage
 Got to the folder where setup.py resides and run: "checkMyApp"
