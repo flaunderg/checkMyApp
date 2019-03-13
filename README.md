@@ -4,8 +4,11 @@ python tool to check project structure and setup file
 # Building (wheel)
 python setup.py sdist bdist_wheel
 
+# Download via pip
+pip install checkMyApp
+
 # Usage
-Got to the folder where setup.py resides and run: "checkMyApp"
+Got to the folder where your application's setup.py resides and run: "checkMyApp"
 
 # Example
 (root@machine)# checkMyApp
