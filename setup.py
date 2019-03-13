@@ -2,9 +2,9 @@ from setuptools import setup, find_packages
 
 setup(
     name='checkMyApp',
-    version='0.0.22',
+    version='0.0.1',
     packages=find_packages(),
-    url='https://stash.outbrain.com/scm/ops/dgur.git',
+    url='https://github.com/flaunderg/checkMyApp',
     license='MIT',
     author='Daniel gur',
     author_email='dgur@outbrain.com',
